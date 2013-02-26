@@ -4,7 +4,7 @@ api_root: http://saapi-mboos.dotcloud.com/api/v1/datasets/
 dataset: mboos/kitchbike
 
 # And the associated API key.
-dataset_api_key: N2NjN2YwYjFiMzQ1ZDhjYWVhOTBhZmRj
+dataset_api_key: 
 
 # Settings for the app
 app:
